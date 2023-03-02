@@ -1,0 +1,48 @@
+body{
+    padding-top: 5vh;
+    background: #8C52FF;
+    background-size: cover;
+    background-position-y: -150px;
+}
+
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 15px 7px 7px #323232;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.6rem;
+}
+
+main{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    text-justify: center;
+
+}
+
+
+
+button{
+    background-color: #2300e6;
+    color: #FFF;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    cursor: pointer;
+    width: 100%;
+}
